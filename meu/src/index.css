@@ -1,0 +1,15 @@
+form {
+  display: flex;
+  flex-direction: column;
+  max-width: 2000px;
+  margin: auto;
+  background-color: aquamarine;
+}
+
+label {
+  margin-bottom: 10px;
+}
+
+button {
+  margin-top: 10px;
+}
