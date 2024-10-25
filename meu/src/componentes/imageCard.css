@@ -1,0 +1,23 @@
+.imageCard {
+    display: flex; /* Alinha os filhos em linha */
+    border: 5px solid #ccc;
+    border-radius: 8px;
+    padding: 10px;
+    margin: 10px;
+    width: 100%;
+    max-width: 600px;
+    
+}
+
+.image {
+    width: 320px; /* Defina a largura desejada */
+    height: auto; /* Mantém a proporção */
+    border-radius: 5px;
+    margin-right: 35px; /* Espaço entre a imagem e as informações */
+}
+
+.propertyInfo {
+    display: flex;
+    flex-direction: column; /* Alinha os textos verticalmente */
+    justify-content: center; /* Centraliza verticalmente os textos */
+}

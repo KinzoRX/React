@@ -1,0 +1,15 @@
+.btnCadastrar {
+    background-color: #222;
+    color: rgb(250, 250, 250);
+    padding: 0.5em 12.75em;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    border-radius: 5px; /* Cantos arredondados */
+    font-size: 14px;
+}
+
+.btnCadastrar:hover {
+    background-color: #444;
+}
+

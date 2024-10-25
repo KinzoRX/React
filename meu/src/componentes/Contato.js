@@ -2,7 +2,7 @@ import React from "react";
 
 function Contato() {
     return (
-        <div className='Contato'> {/* Corrigido para className */}
+        <div className='Contato'> {}
             <section>
                 <h1>Contato</h1>
                 <p>Email: contato@imobiliaria.com</p>

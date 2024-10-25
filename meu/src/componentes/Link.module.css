@@ -1,0 +1,17 @@
+.btn {
+    background-color: #25D366;
+    color: aliceblue;
+    padding: 0.5em 1em;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    border-radius: 5px; /*cantos arredondados*/
+    font-size: 14px;
+   
+}
+
+.btn:hover {
+    background-color: #444;
+}
+

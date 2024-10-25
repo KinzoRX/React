@@ -3,7 +3,7 @@ form {
   flex-direction: column;
   max-width: 2000px;
   margin: auto;
-  background-color: aquamarine;
+  background-color: rgb(253, 253, 253);
 }
 
 label {

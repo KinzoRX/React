@@ -1,0 +1,12 @@
+
+#properties {
+    text-align: center;
+    padding: 20px;
+}
+
+.propertyList {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 0px;
+};

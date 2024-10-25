@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+#properties {
+  text-align: center;
+  padding: 20px;
+}
+
+
+.property-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
